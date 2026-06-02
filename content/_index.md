@@ -41,16 +41,6 @@ sections:
     design:
       columns: '1'
   - block: collection
-    id: papers
-    content:
-      title: Publications
-      filters:
-        folders:
-          - publication
-        featured_only: false
-    design:
-      view: citation
-  - block: collection
     content:
       title: Selected Projects
       text: ''

@@ -41,25 +41,11 @@ interests:
 
 education:
   - area: PhD in Computer Science
-    institution: University of Washington
+    institution: University of Washington Tacoma
     date_start: 2025-09-01
     date_end: 2030-05-31
     summary: |
       Researching AI security for UAVs, focusing on adversarial threats, intrusion detection systems, and real-time attack detection.
-  - area: MS in Computer Science
-    institution: Texas Tech University
-    date_start: 2024-08-01
-    date_end: 2025-08-31
-    summary: |
-      GPA: 4.0/4.0
-
-      Research focused on machine learning-based data analysis for medical decision-making, using Python and TensorFlow.
-  - area: BS in Computer Science
-    institution: Chongqing University of Education
-    date_start: 2019-09-01
-    date_end: 2023-07-31
-    summary: |
-      Graduated with a focus on software engineering and full-stack development.
 
 work:
   - position: Research Assistant
