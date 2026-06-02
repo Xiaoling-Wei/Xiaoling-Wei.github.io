@@ -1,17 +1,14 @@
 ---
 # Display name
-title: 吳健雄
-
-# Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+title: Xiaoling Wei
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Xiaoling
+last_name: Wei
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🎓
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,167 +17,145 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: PhD Student in Computer Science
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: University of Washington
+    url: https://www.cs.washington.edu/
 
 # Social network links
-# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:xiaolingwei28@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/Xiaoling-Wei
   - icon: brands/linkedin
     url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - AI Security & Adversarial Machine Learning
+  - Machine Learning for Healthcare
+  - Full-Stack Software Engineering
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD in Computer Science
+    institution: University of Washington
+    date_start: 2025-09-01
+    date_end: 2030-05-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      Researching AI security for UAVs, focusing on adversarial threats, intrusion detection systems, and real-time attack detection.
+  - area: MS in Computer Science
+    institution: Texas Tech University
+    date_start: 2024-08-01
+    date_end: 2025-08-31
     summary: |
-      GPA: 3.8/4.0
+      GPA: 4.0/4.0
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      Research focused on machine learning-based data analysis for medical decision-making, using Python and TensorFlow.
+  - area: BS in Computer Science
+    institution: Chongqing University of Education
+    date_start: 2019-09-01
+    date_end: 2023-07-31
     summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Graduated with a focus on software engineering and full-stack development.
+
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: Research Assistant
+    company_name: University of Washington
+    company_url: 'https://www.washington.edu/'
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2025-09-01
     date_end: ''
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+      - Researching AI security for UAVs (drones), focusing on system vulnerabilities and adversarial threats
+      - Applying machine learning and threat modeling to design intrusion detection and countermeasure strategies (e.g., GPS spoofing/jamming defense, anomaly detection)
+      - Building and testing prototype models for real-time UAV attack detection, improving system resilience and reliability
+  - position: Research Assistant
+    company_name: Texas Tech University
+    company_url: 'https://www.ttu.edu/'
+    company_logo: ''
+    date_start: 2025-01-01
+    date_end: 2025-08-31
+    summary: |2-
+      - Developed a machine learning-based data analysis system to assess medication effectiveness for knee disease patients
+      - Utilized Python and TensorFlow for data processing and feature engineering to improve model accuracy
+      - Applied machine learning algorithms and statistical analysis to support data-driven medical decisions
+  - position: Software Engineer
+    company_name: Chongqing Zhongwulian Yunsheng Big Data Co., Ltd.
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    date_start: 2023-05-01
+    date_end: 2023-08-31
+    summary: |2-
+      - Delivered real-time solutions for client system operation issues, ensuring minimal downtime
+      - Conducted process and module testing, identified code vulnerabilities, and produced test reports
+      - Optimized a 10M+ record database with indexing and query rewrites, reducing response time by 60%
 
-# Skills
-# Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: Programming Languages
     items:
       - name: Python
         description: ''
+        percent: 90
+        icon: code-bracket
+      - name: Java
+        description: ''
+        percent: 85
+        icon: code-bracket
+      - name: JavaScript
+        description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-bar
       - name: SQL
         description: ''
-        percent: 40
+        percent: 80
         icon: circle-stack
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
+  - name: Frameworks & Tools
+    color: '#2563eb'
+    color_border: '#3b82f6'
     items:
-      - name: Hiking
+      - name: PyTorch / TensorFlow
         description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
+        percent: 85
+        icon: chart-bar
+      - name: React / Vue.js
         description: ''
         percent: 80
-        icon: camera
+        icon: code-bracket
+      - name: Spring Boot / Django
+        description: ''
+        percent: 80
+        icon: code-bracket
+      - name: Git / Firebase / Redis
+        description: ''
+        percent: 85
+        icon: code-bracket
 
 languages:
-  - name: English
-    percent: 100
   - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+    percent: 100
+  - name: English
+    percent: 95
 
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+  - title: Top Scholar Award
+    date: '2025-04-01'
+    awarder: University of Washington
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
+      Awarded for outstanding academic achievement and research contributions at the Paul G. Allen School of Computer Science & Engineering.
+  - title: Competitive Scholarship
+    date: '2024-08-01'
+    awarder: Texas Tech University
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      Awarded in recognition of academic excellence and research potential in Computer Science.
 ---
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a PhD student in Computer Science at the **Paul G. Allen School of Computer Science & Engineering, University of Washington**. My research focuses on **AI security for autonomous systems** — specifically, investigating adversarial threats against UAVs (drones) and developing robust intrusion detection and countermeasure systems using machine learning.
+
+Prior to joining UW, I earned my MS in Computer Science at **Texas Tech University** (GPA: 4.0/4.0), where I applied machine learning to medical data analysis for clinical decision-making. I hold a BS in Computer Science from **Chongqing University of Education**, China.
+
+I am passionate about building secure and intelligent systems at the intersection of machine learning and systems security. I am also an experienced full-stack engineer with production experience in Java/Spring Boot, Python/Django, and modern frontend frameworks (React, Vue.js).

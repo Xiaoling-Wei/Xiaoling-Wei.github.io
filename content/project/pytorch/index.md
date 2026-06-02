@@ -1,13 +1,19 @@
 ---
-title: PyTorch
-date: 2023-10-26
-external_link: https://github.com/pytorch/pytorch
+title: Chongqing Collaborative Assistance Information Platform
+date: 2023-08-01
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - Java
+  - Spring Boot
+  - MySQL
+  - Full-Stack
 ---
 
-PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.
+A collaborative information platform that integrates and presents data in an intuitive, accessible manner. Achieved a 50% improvement in MySQL query response time through JOIN optimization and indexing strategies.
 
 <!--more-->
+
+**Tech Stack:** Java, Spring Jeeplus, MySQL
+
+**Key Contributions:**
+- Enhanced MySQL query efficiency via JOIN optimization and indexing, cutting response time by 50%
+- Developed user interfaces with Java and Spring Jeeplus, improving user efficiency by 20%

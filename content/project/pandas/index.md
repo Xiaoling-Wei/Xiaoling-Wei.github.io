@@ -1,13 +1,21 @@
 ---
-title: Pandas
-date: 2023-10-26
-external_link: https://github.com/pandas-dev/pandas
+title: Little Lemon Restaurant Application
+date: 2024-12-01
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - Python
+  - Django
+  - MySQL
+  - REST API
+  - Full-Stack
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+A full-stack web platform providing comprehensive online services for a restaurant, including menu management and order tracking. Built with Python and Django, backed by a MySQL database with RESTful APIs for seamless frontend-backend communication.
 
 <!--more-->
+
+**Tech Stack:** Python, Django, MySQL, RESTful API
+
+**Key Contributions:**
+- Designed and developed the full-stack application from scratch using Python and Django
+- Configured MySQL database for data persistence with data integrity and consistency guarantees
+- Built and tested RESTful APIs to facilitate seamless communication between the UI and database
