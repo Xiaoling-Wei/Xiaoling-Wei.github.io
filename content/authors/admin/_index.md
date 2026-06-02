@@ -56,6 +56,15 @@ education:
       Research focused on machine learning-based data analysis for medical decision-making, using Python and TensorFlow.
 
 work:
+  - position: Teaching Assistant
+    company_name: University of Washington Tacoma
+    company_url: 'https://www.tacoma.uw.edu/'
+    company_logo: ''
+    date_start: 2026-01-01
+    date_end: 2026-06-30
+    summary: |2-
+      - TCSS 142B — Programming Principles, Lab (Winter 2026)
+      - TCSS 143A — Fundamentals of Object-Oriented Programming Theory and Application, Lab (Spring 2026)
   - position: Research Assistant
     company_name: University of Washington
     company_url: 'https://www.washington.edu/'
