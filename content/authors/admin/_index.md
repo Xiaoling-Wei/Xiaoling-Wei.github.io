@@ -21,8 +21,8 @@ role: PhD Student in Computer Science
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: University of Washington
-    url: https://www.cs.washington.edu/
+  - name: University of Washington Tacoma
+    url: https://www.tacoma.uw.edu/set
 
 # Social network links
 profiles:
@@ -130,7 +130,7 @@ awards:
     date: '2025-04-01'
     awarder: University of Washington
     summary: |
-      Awarded for outstanding academic achievement and research contributions at the Paul G. Allen School of Computer Science & Engineering.
+      Awarded for outstanding academic achievement and research contributions at the School of Engineering & Technology, University of Washington Tacoma.
   - title: Competitive Scholarship
     date: '2024-08-01'
     awarder: Texas Tech University
@@ -140,8 +140,8 @@ awards:
 
 ## About Me
 
-I am a PhD student in Computer Science at the **Paul G. Allen School of Computer Science & Engineering, University of Washington**. My research focuses on **AI security for autonomous systems** — specifically, investigating adversarial threats against UAVs (drones) and developing robust intrusion detection and countermeasure systems using machine learning.
+I am a PhD student in Computer Science at the **School of Engineering & Technology, University of Washington Tacoma**, advised by [Prof. Damiano Torre](https://faculty.washington.edu/dctorre/). My research focuses on **AI security for autonomous systems** — specifically, investigating adversarial threats against UAVs (drones) and developing robust intrusion detection and countermeasure systems using machine learning.
 
-Prior to joining UW, I earned my MS in Computer Science at **Texas Tech University** (GPA: 4.0/4.0), where I applied machine learning to medical data analysis for clinical decision-making. I hold a BS in Computer Science from **Chongqing University of Education**, China.
+Prior to joining UW, I earned my MS in Computer Science at **Texas Tech University** (GPA: 4.0/4.0), advised by [Prof. Victor Sheng](https://www.depts.ttu.edu/cs/faculty/victor_sheng/index.php), where I applied machine learning to medical data analysis for clinical decision-making. I hold a BS in Computer Science from **Chongqing University of Education**, China.
 
 I am passionate about building secure and intelligent systems at the intersection of machine learning and systems security. I am also an experienced full-stack engineer with production experience in Java/Spring Boot, Python/Django, and modern frontend frameworks (React, Vue.js).

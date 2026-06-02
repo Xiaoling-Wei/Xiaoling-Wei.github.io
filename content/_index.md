@@ -14,8 +14,6 @@ sections:
       username: admin
       text: ""
       button:
-        text: Download CV
-        url: uploads/resume.pdf
     design:
       css_class: dark
       background:
