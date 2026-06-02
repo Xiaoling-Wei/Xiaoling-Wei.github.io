@@ -36,6 +36,7 @@ header:
     show_theme_chooser: true
     logo:
       text: "Xiaoling Wei"
+      filename: logo.png
 
 # Site footer
 footer:
