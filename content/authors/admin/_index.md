@@ -46,6 +46,14 @@ education:
     date_end: 2030-05-31
     summary: |
       Researching AI security for UAVs, focusing on adversarial threats, intrusion detection systems, and real-time attack detection.
+  - area: MS in Computer Science
+    institution: Texas Tech University
+    date_start: 2024-08-01
+    date_end: 2025-08-31
+    summary: |
+      GPA: 4.0/4.0
+
+      Research focused on machine learning-based data analysis for medical decision-making, using Python and TensorFlow.
 
 work:
   - position: Research Assistant
@@ -142,6 +150,6 @@ awards:
 
 I am a PhD student in Computer Science at the **School of Engineering & Technology, University of Washington Tacoma**, advised by [Prof. Damiano Torre](https://faculty.washington.edu/dctorre/). My research focuses on **AI security for autonomous systems** — specifically, investigating adversarial threats against UAVs (drones) and developing robust intrusion detection and countermeasure systems using machine learning.
 
-Prior to joining UW, I earned my MS in Computer Science at **Texas Tech University** (GPA: 4.0/4.0), advised by [Prof. Victor Sheng](https://www.depts.ttu.edu/cs/faculty/victor_sheng/index.php), where I applied machine learning to medical data analysis for clinical decision-making. I hold a BS in Computer Science from **Chongqing University of Education**, China.
+Prior to joining UW, I earned my MS in Computer Science at **Texas Tech University** (GPA: 4.0/4.0), advised by [Prof. Victor Sheng](https://www.depts.ttu.edu/cs/faculty/victor_sheng/index.php), where I applied machine learning to medical data analysis for clinical decision-making.
 
 I am passionate about building secure and intelligent systems at the intersection of machine learning and systems security. I am also an experienced full-stack engineer with production experience in Java/Spring Boot, Python/Django, and modern frontend frameworks (React, Vue.js).
