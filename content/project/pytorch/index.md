@@ -1,6 +1,7 @@
 ---
 title: Chongqing Collaborative Assistance Information Platform
 date: 2023-08-01
+reading_time: false
 tags:
   - Java
   - Spring Boot
