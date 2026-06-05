@@ -16,8 +16,6 @@ links:
     url: https://github.com/SESAIS/2026-MultiDatasets-CNN-RF--SVC
 ---
 
-**Published at QRS 2026** | University of Washington Tacoma
-
 **Authors:** Noah Deri Ogilvie, **Xiaoling Wei**, Damiano Torre
 
 ---

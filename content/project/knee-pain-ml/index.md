@@ -11,8 +11,6 @@ tags:
   - LightGBM
 ---
 
-**Submitted to Expert Systems With Applications (ESWA-D-25-26442)**
-
 **Authors:** Liyuan Gao†, **Xiaoling Wei†**, Tun-Min Jai, Jean-Michel Brismée, Kiran Sagani, Ming-Chien Chyu, Chwan-Li Shen, Victor S. Sheng
 
 †*Co-first authors with equal contribution*
