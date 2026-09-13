@@ -33,6 +33,8 @@ profiles:
     url: https://github.com/Xiaoling-Wei
   - icon: brands/linkedin
     url: https://www.linkedin.com/
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/citations?user=2_oHoNIAAAAJ&hl=zh-CN
 
 interests:
   - AI Security & Adversarial Machine Learning
