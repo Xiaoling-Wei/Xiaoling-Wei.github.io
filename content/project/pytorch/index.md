@@ -9,12 +9,12 @@ tags:
   - Full-Stack
 ---
 
-A collaborative information platform that integrates and presents data in an intuitive, accessible manner. Achieved a 50% improvement in MySQL query response time through JOIN optimization and indexing strategies.
+A collaborative information platform that integrates and presents data in an intuitive, accessible manner. Achieved a 30% improvement in MySQL query response time through JOIN optimization and indexing strategies.
 
 <!--more-->
 
 **Tech Stack:** Java, Spring Jeeplus, MySQL
 
 **Key Contributions:**
-- Enhanced MySQL query efficiency via JOIN optimization and indexing, cutting response time by 50%
+- Enhanced MySQL query efficiency via JOIN optimization and indexing, cutting response time by 30%
 - Developed user interfaces with Java and Spring Jeeplus, improving user efficiency by 20%
